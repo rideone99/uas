@@ -1,10 +1,10 @@
 # UAS SEMESTER 1
 
-```py
-**Nama  : Ridwan Abdulah**
-**Kelas : T1.21.C5**
-**NIM   : 312110369**
-```
+
+## Nama  : Ridwan Abdulah
+## Kelas : T1.21.C5
+## NIM   : 312110369
+
 ## SOAL 
 
 Pada UAS di pertemuan ke-16 ini,saya diberikan beberapa tugas oleh dosen saya,yaitu : 
