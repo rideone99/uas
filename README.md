@@ -1,9 +1,9 @@
 # UAS SEMESTER 1
 
 ```py
-** Nama  : Ridwan Abdulah **
-** Kelas : T1.21.C5 **
-** NIM   : 312110369 **
+**Nama  : Ridwan Abdulah**
+**Kelas : T1.21.C5**
+**NIM   : 312110369**
 ```
 ## SOAL 
 
@@ -60,7 +60,7 @@ class daftarNilai():
     def keluar(self):
         print('thank you')
 ```
-Disini saya akan mencoba menguraikannya.Pertama untuk menghasilkan modul ** Tambah Data ** kamu perlu
+Disini saya akan mencoba menguraikannya.Pertama untuk menghasilkan modul **Tambah Data** kamu perlu
 memasukkan sintaks di bawah ini.
 
 ```py
@@ -76,13 +76,13 @@ def tambah_data(self):
         print('\n\033[93mData Berhasil Di ditambah!\n')
 ```
 
-Jadi kesimpulannya jika kalian menggunakan semua sintaks yang saya tunjukkan di awal dan memasukkan ** '1' **
+Jadi kesimpulannya jika kalian menggunakan semua sintaks yang saya tunjukkan di awal dan memasukkan **'1'**
 pada kolom yang tersedia dan kalian jalankan, maka akan mendapat output seperti di bawah ini, yang mana itu
 adalah hasil untuk menambahkan data.
 
 ![](img/tbh.jpg)
 
-Kedua untuk menghasilkan modul ** Ubah Data ** kamu perlu memasukkan sintaks di bawah ini.
+Kedua untuk menghasilkan modul **Ubah Data** kamu perlu memasukkan sintaks di bawah ini.
 
 ```py
 def ubah_data(self):
@@ -100,13 +100,13 @@ def ubah_data(self):
             print('data tidak ditemukan !!!')
 ```
 
-Jadi kesimpulannya jika kalian menggunakan semua sintaks yang saya tunjukkan di awal dan memasukkan ** '2' ** 
+Jadi kesimpulannya jika kalian menggunakan semua sintaks yang saya tunjukkan di awal dan memasukkan **'2'** 
 pada kolom yang tersedia dan kalian jalankan, maka akan mendapat output seperti di bawah ini, yang dimana itu
 adalah hasil untuk mengubah data.
 
 ![](img/tbh1.jpg)
 
-Ketiga untuk menghasilkan modul ** Hapus Data ** kamu perlu memasukkan sintaks dibawah ini.
+Ketiga untuk menghasilkan modul **Hapus Data** kamu perlu memasukkan sintaks dibawah ini.
 
 ```py
 def hapus_data(self):
@@ -119,24 +119,24 @@ def hapus_data(self):
 ```
 
 Jadi kesimpilannya jika kalian menggunakan semua sintaks yang saya tunjukkan di awal dan
-memasukkan ** '3' ** pada kolom yang tersedia dan kalian jalankan, maka akan mendapat output 
+memasukkan **'3'** pada kolom yang tersedia dan kalian jalankan, maka akan mendapat output 
 seperti dibawah ini, dimana itu adalah hasil untuk menghapus data.
 
 ![](img/tbh2.jpg)
 
 Untuk mencari data itu sendiri kalian hanya perlu memasukkan inisial dari modul tersebut.
-Anggap saja kalian ingin mencari modul untuk Menghapus Data, maka kamu hanya perlu memasukkan angka ** '3' **
+Anggap saja kalian ingin mencari modul untuk Menghapus Data, maka kamu hanya perlu memasukkan angka **'3'**
 pada kolom yang tersedia.
 
 ## SOAL 2(View_Nilai)
 
-Untuk menjawab soal nomer 2,kalian perlu mengetikan angka ** '4' ** pada kolom yang di sediakan untuk melihat hasil pencarian
+Untuk menjawab soal nomer 2,kalian perlu mengetikan angka **'4'** pada kolom yang di sediakan untuk melihat hasil pencarian
 atau daftar nilai. Maka nanti akan mendapatkan hasil output seperti gambar di bawah ini.
 
 ![](img/tbh3.jpg)
 
 ## SOAL 3(Input_Nilai)
-Pada soal ke-3 ,jiak kalian ingin memasukkan suatu data yaitu sama seperti kalian memasukkan angka ** '1' ** untuk menambahkan suatu data.Dan hasil output yang dihasilkan pun sama yaitu sebagai berikut.
+Pada soal ke-3 ,jiak kalian ingin memasukkan suatu data yaitu sama seperti kalian memasukkan angka **'1'** untuk menambahkan suatu data.Dan hasil output yang dihasilkan pun sama yaitu sebagai berikut.
 
 ![](img/tbh.jpg)
 
